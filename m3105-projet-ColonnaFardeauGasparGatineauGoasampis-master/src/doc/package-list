@@ -1,0 +1,10 @@
+fr.univ_amu.iut.affichage
+fr.univ_amu.iut.traitement
+fr.univ_amu.iut.traitement.Controleur
+fr.univ_amu.iut.traitement.EntrepriseFerroviaire
+fr.univ_amu.iut.traitement.Exception
+fr.univ_amu.iut.traitement.Fabrique
+fr.univ_amu.iut.traitement.Facturation
+fr.univ_amu.iut.traitement.Fonctionnalite
+fr.univ_amu.iut.traitement.Train
+fr.univ_amu.iut.traitement.Wagon
